@@ -749,6 +749,21 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/coustard@^4.5.3":
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/@fontsource/coustard/-/coustard-4.5.3.tgz#f19b3937bb4de744e377a3a2e14378ef0832bbe3"
+  integrity sha512-ZrW29Sn22oNg0S/reVztwY7mNwbXEXmXMFY69BNz3RLsYI0Kkxd0lFsRKtqg7m4wlS6d+7fylj4TuNRz/iezJg==
+
+"@fontsource/dm-sans@^4.5.2":
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/@fontsource/dm-sans/-/dm-sans-4.5.2.tgz#566a993d59d70a012e0c4a56079b9c6f0899b56b"
+  integrity sha512-JJM89uUqJBq7m6evr7gP9dN6TPgQJaRZItzXvSZveU29cwcDewzCGalR/LSQdRKgIswPd9tssAEc5uwgzQx84Q==
+
+"@fontsource/dm-serif-display@^4.5.2":
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/@fontsource/dm-serif-display/-/dm-serif-display-4.5.2.tgz#ab69c7790a56ce9b9248a263a921e45e399b41c1"
+  integrity sha512-XbVkHCS87s19RdLfXrYmccqwZMxnW0We1Jy7jkU+46fZxOwL7QKZbq8lqJHiJ1/+BhkCLB9bnLQc4sE5LpVVdw==
+
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.9.5.tgz#2cbaf9a89460da24b5ca6531b8bbfc23e1df50c7"

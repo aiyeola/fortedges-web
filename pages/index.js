@@ -1,7 +1,5 @@
-import { Box } from "@chakra-ui/react";
+import { Box, Heading, Text } from "@chakra-ui/react";
 import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -13,7 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Box color="brand.body_text">Welomce here</Box>
+        <Text color="brand.body_text" fontSize="6xl">
+          Hello World
+        </Text>
 
         <Box
           width="100px"

@@ -1,10 +1,11 @@
-import "../styles/globals.css";
 import { ChakraProvider } from "@chakra-ui/react";
+import "@fontsource/dm-sans";
+import "@fontsource/coustard";
 import theme from "theme";
 
 function MyApp({ Component, pageProps }) {
   return (
-    <ChakraProvider theme={theme}>
+    <ChakraProvider resetCSS theme={theme}>
       <Component {...pageProps} />
     </ChakraProvider>
   );
