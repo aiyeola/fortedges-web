@@ -1,10 +1,10 @@
-import { extendTheme } from "@chakra-ui/react";
-import foundations from "./foundations";
+import { extendTheme } from '@chakra-ui/react';
+import foundations from './foundations';
 
 const config = {
-  initialColorMode: "light",
+  initialColorMode: 'light',
   useSystemColorMode: false,
-  cssVarPrefix: "fortedges",
+  cssVarPrefix: 'fortedges',
 };
 
 const overrides = {

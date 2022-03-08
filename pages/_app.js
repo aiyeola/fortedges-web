@@ -1,7 +1,8 @@
-import { ChakraProvider } from "@chakra-ui/react";
-import "@fontsource/dm-sans";
-import "@fontsource/coustard";
-import theme from "theme";
+import { ChakraProvider } from '@chakra-ui/react';
+import '@fontsource/dm-sans';
+import '@fontsource/coustard';
+
+import theme from '../theme';
 
 function MyApp({ Component, pageProps }) {
   return (
